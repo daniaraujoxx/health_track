@@ -1,27 +1,32 @@
+
 body{
     width: 600px;
     margin: 0 auto;
     background-image: url(../img/saude.jpg);
 
 }
-section {
-    height: 50px;
-    background-color: rgba(109, 176, 202, 0.966);
+section{
+    background-color:  rgba(109, 176, 202, 0.966);
+  }
+  .text{
     color: white;
-}
+    height: 100%;
+    float: center;
+    margin-top: 25px;
+  }
 
 Div.menu{
     margin-top: 30px;
     height: 500px;
     background-color: black;
     background-color: rgba(109, 176, 202, 0.966);
+    
+}
 
+img {
+    justify-content: flex-start;
+    border-radius: 20px;
+    float: left;
 }
 
 
-
-img{
-    border-radius: 50px;
-    width: 30px;
-    height: 30px;
-}

@@ -29,37 +29,27 @@ header{
     float: left;
 }
 
-.menuItem {
-  border: 1px solid black;
-  width: 120px;
-  margin: 20px 40px;
-  padding-top: 5px;  
 
-
-}
-
-.menuItem a {
-  width: 100%;
-  height: 100%;
-  text-decoration: none;
-  
-}
-
-.conteudoMenu {
-  padding-top: 70px;
-  padding-left: 10px;
-}
-
-.sair{
-  
-  text-align: end;
-
-}
-
-p {
+h1 {
   color: white;
+  text-align: center;
 }
 
+h2 {
+  color: rgb(0, 0, 0);
+
+}
+
+td {
+  padding-left: 50px;
+  padding-top: 20px;
+  font-size: 20px;
+}
+
+.botoes{
+  padding-left: 240px;
+  padding-top: 30px ;
+}
 
 
 

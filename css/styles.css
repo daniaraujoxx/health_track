@@ -1,5 +1,5 @@
 body{
-    width: 600px;
+    width: 700px;
     margin: 0 auto;
     color: white;
     background-image: url(../img/saude.jpg);
@@ -21,3 +21,4 @@ Div.container {
     width: 100vh;
     background-color: rgba(109, 176, 202, 0.685);
 }
+

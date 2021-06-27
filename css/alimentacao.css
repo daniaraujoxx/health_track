@@ -23,11 +23,6 @@ Div.menu{
     
 }
 
-img {
-    justify-content: flex-start;
-    border-radius: 20px;
-    float: left;
-}
 
 h1 {
     color: white;
@@ -38,17 +33,11 @@ form {
     margin-top: 10px;
 }
 
-.atv_fisica{
+.alimentacao{
     padding-top: 20px;
     padding-left: 50px;
     width: 500px;
     color: white;
-}
-
-.sentimento {
-    color: white;
-    font-size: 20px;
-    text-align: center;
 }
 
 .botoes{

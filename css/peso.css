@@ -1,0 +1,75 @@
+
+body{
+    width: 600px;
+    margin: 0 auto;
+    background-image: url(../img/saude.jpg);
+
+}
+section{
+    background-color:  rgba(109, 176, 202, 0.966);
+  }
+  .text{
+    color: white;
+    height: 100%;
+    float: center;
+    margin-top: 25px;
+  }
+
+Div.menu{
+    margin-top: 30px;
+    height: 500px;
+    background-color: black;
+    background-color: rgba(109, 176, 202, 0.74);
+    
+}
+
+img {
+    justify-content: flex-start;
+    border-radius: 20px;
+    float: left;
+}
+
+h1 {
+    color: white;
+    text-align: center;
+}
+
+form {
+    margin-top: 10px;
+}
+
+.atv_fisica{
+    padding-top: 20px;
+    padding-left: 50px;
+    width: 500px;
+    color: white;
+}
+
+.sentimento {
+    color: white;
+    font-size: 20px;
+    text-align: center;
+}
+
+.botoes{
+    padding-left: 240px;
+    padding-top: 15px;
+}
+
+.objetivos {
+
+    padding-left: 200px;
+    padding-top: 15px;
+    
+}
+
+.manterPeso {
+    padding-left: 30px;
+    padding-top: 15px;
+}
+
+.objetivos p {
+    font-size: 20px;
+    padding-left: 20px;
+    color: white;
+}
